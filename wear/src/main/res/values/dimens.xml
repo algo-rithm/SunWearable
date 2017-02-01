@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
+    <dimen name="digital_x_offset">15dp</dimen>
+    <dimen name="digital_x_offset_round">25dp</dimen>
+    <dimen name="digital_y_offset_square">60dp</dimen>
+    <dimen name="digital_y_offset_round">70dp</dimen>
+
+
+    <dimen name="digital_y_line_offset_square">0dp</dimen>
+    <dimen name="digital_y_line_offset_round">-15dp</dimen>
+    <dimen name="line_length_square">60dp</dimen>
+    <dimen name="line_length_round">60dp</dimen>
+
+    <dimen name="digital_date_size">20dp</dimen>
+    <dimen name="digital_date_size_round">25dp</dimen>
+
+    <dimen name="high_temp_text_size">35dp</dimen>
+    <dimen name="high_temp_x_offset_square">5dp</dimen>
+    <dimen name="high_temp_x_offset_round">5dp</dimen>
+    <dimen name="high_temp_y_offset_square">50dp</dimen>
+    <dimen name="high_temp_y_offset_round">45dp</dimen>
+
+    <dimen name="low_temp_text_size">25dp</dimen>
+    <dimen name="low_temp_x_offset_square">25dp</dimen>
+    <dimen name="low_temp_x_offset_round">25dp</dimen>
+    <dimen name="low_temp_y_offset_square">75dp</dimen>
+    <dimen name="low_temp_y_offset_round">70dp</dimen>
+
+    <dimen name="bitmap_x_offset_square">80dp</dimen>
+    <dimen name="bitmap_x_offset_round">80dp</dimen>
+    <dimen name="bitmap_y_offset_square">10dp</dimen>
+    <dimen name="bitmap_y_offset_round">0dp</dimen>
+
+    <dimen name="desc_x_offset_square">15dp</dimen>
+    <dimen name="desc_x_offset_round">0dp</dimen>
+    <dimen name="desc_y_offset_square">15dp</dimen>
+    <dimen name="desc_y_offset_round">5dp</dimen>
+</resources>
